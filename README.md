@@ -16,3 +16,8 @@ dentro do cmd utilizar o código :                  npm start
 
 Todos os arquivos do frontend estão separados em 3 partes, sendo eles o css, html e ts.
 Para realizar esta aplicação eu utilizei o angular.
+
+Para acessar a aplicação é necessáiro ir até a uma página da web e digitar
+
+localhost:4200
+

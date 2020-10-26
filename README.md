@@ -8,6 +8,7 @@ Depois descompactar os arquivos do crud.rar
 
 Para conseguir iniciar a aplicação é necessário ir na pasta backend e abrir o cmd
 dentro do cmd utilizar o código :                  npm start
+
 para iniciar o backend da aplicação.
 
 Já para o frontend é necessário ir para a pasta frontend e abri o cmd

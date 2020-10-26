@@ -1,7 +1,9 @@
 # desafio
 Olá, tudo bem?
 Para conseguir analisar a aplicação é necessário realizar o download do arquivo rar.
+
 Depois é preciso realizar um unzip do desafio-master ( caso baixe em arquivo zip)
+
 Depois descompactar os arquivos do crud.rar
 
 Para conseguir iniciar a aplicação é necessário ir na pasta backend e abrir o cmd

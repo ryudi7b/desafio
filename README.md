@@ -11,7 +11,7 @@ dentro do cmd utilizar o código :                  npm start
 
 para iniciar o backend da aplicação.
 
-Já para o frontend é necessário ir para a pasta frontend e abri o cmd
+Já para o frontend é necessário ir para a pasta frontend e abrir o cmd.
 dentro do cmd utilizar o código :                  npm start
 
 Todos os arquivos do frontend estão separados em 3 partes, sendo eles o css, html e ts.
